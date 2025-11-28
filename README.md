@@ -24,10 +24,10 @@ The project was developed to end my Data Analytics Bootcamp Journey as my **Caps
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - U.S. AQI rose **31%** between 2019–2023, moving away from the “Good” range.  
 - **Seasonal variation**: Summer shows highest AQI, winter the lowest.  
-- **Hourly cycles**: O <sub> 3 </sub> peaks when sunlight breaks NO
-- **Geographic disparities**: The top state is Ilinois, while California cities (Fontana, Rubidoux, Victorville) consistently rank worst.  
-- **Cross-country comparison**: India’s AQI levels are significantly higher, driven by coal-heavy energy generation, high temperature and dense population.  
+- **Hourly cycles**: O<sub>3</sub> peaks when sunlight breaks NO<sub>2</sub>, other peak at midnight due to temperature inversion lid.
+- **Geographic disparities**: The top state with the worst AQI is Ilinois, while California cities (Fontana, Rubidoux, Victorville) consistently rank worst despite it being in a good AQI range.
+- **Cross-boarders comparison**: India’s AQI levels are significantly higher, driven by coal-heavy energy generation, high temperature and dense population.  
 

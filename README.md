@@ -1,4 +1,4 @@
-# *When Air Speaks — A Tale of U.S. Air Quality (2019–2023)*
+# *When Air Speaks : A Tale of U.S. Air Quality (2019–2023)*
 
 ## Project Overview
 This project analyzes **air quality trends in the United States between 2019 and 2023**, highlighting the rise in the **Air Quality Index (AQI)** and its implications for public health and the forces behind it. It also compares U.S. air quality with India which had different view of AQI, exploring the role of **fossil fuel energy generation, seasonal variation, and pollutant chemistry** in shaping outcomes.  
@@ -27,7 +27,7 @@ The project was developed to end my Data Analytics Bootcamp Journey as my **Caps
 ## 📊 Key Insights
 - U.S. AQI rose **31%** between 2019–2023, moving away from the “Good” range.  
 - **Seasonal variation**: Summer shows highest AQI, winter the lowest.  
-- **Hourly cycles**: O~3~ peaks when sunlight breaks NO
+- **Hourly cycles**: O <sub> 3 </sub> peaks when sunlight breaks NO
 - **Geographic disparities**: The top state is Ilinois, while California cities (Fontana, Rubidoux, Victorville) consistently rank worst.  
 - **Cross-country comparison**: India’s AQI levels are significantly higher, driven by coal-heavy energy generation, high temperature and dense population.  
 
